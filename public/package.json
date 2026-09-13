@@ -1,1 +1,12 @@
-
+{
+  "name": "qx999-demo",
+  "version": "1.0.0",
+  "description": "QX999 Demo Auto System",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
